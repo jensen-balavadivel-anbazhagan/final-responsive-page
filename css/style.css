@@ -49,7 +49,7 @@ a {
 }
  
 .singleGrid {
-  background-image: url("students6.jpg");
+  background-image: url("img/students6.jpg");
   background-size: cover;
   width: 100vw;
   height: 100vh;
@@ -62,7 +62,7 @@ a {
   padding:40px;
   grid-row: 1;
   grid-column: 1/ span 2;
-  background-image: url("student3.jpg");
+  background-image: url("img/student3.jpg");
   background-size: cover;
   text-decoration: none;
 }
@@ -101,7 +101,7 @@ a {
   padding:40px;
   grid-row: 2;
   grid-column: 1;
-  background-image: url("projectmanagement.jpg");
+  background-image: url("img/projectmanagement.jpg");
   background-size: cover;
   text-decoration: none;
 }
@@ -113,7 +113,7 @@ a {
   padding:40px;
   grid-row: 2;
   grid-column: 2;
-  background-image: url("salesmarketing.jpg");
+  background-image: url("img/salesmarketing.jpg");
   background-size: cover;
   text-decoration: none;
 }
@@ -125,7 +125,7 @@ a {
   padding:40px;
   grid-row: 3;
   grid-column: 1;
-  background-image: url("softwaremanage.jpg");
+  background-image: url("img/softwaremanage.jpg");
   background-size: cover;
   text-decoration: none;
  }
@@ -137,7 +137,7 @@ a {
   padding:40px;
   grid-row: 3;
   grid-column: 2;
-  background-image: url("java.jpg");
+  background-image: url("img/java.jpg");
   background-size: cover;
   text-decoration: none;
  }
@@ -149,7 +149,7 @@ a {
   padding:40px;
   grid-row: 4;
   grid-column: 1;
-  background-image: url("dotnet.jpg");
+  background-image: url("img/dotnet.jpg");
   background-size: cover;
   text-decoration: none;
 }
@@ -161,7 +161,7 @@ a {
   padding:40px;
   grid-row: 4;
   grid-column: 2;
-  background-image: url("Testing.jpg");
+  background-image: url("img/Testing.jpg");
   background-size: cover;
   text-decoration: none;
 }
@@ -173,7 +173,7 @@ a {
   padding:40px;
   grid-row: 5;
   grid-column: 1;
-  background-image: url("learnswedish.jpg");
+  background-image: url("img/learnswedish.jpg");
   background-size: cover;
   text-decoration: none;
 }
@@ -185,7 +185,7 @@ a {
   padding:40px;
   grid-row: 5;
   grid-column: 2;
-  background-image: url("learnenglish.jpg");
+  background-image: url("img/learnenglish.jpg");
   background-size: cover;
   text-decoration: none;
 }
